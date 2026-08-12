@@ -1,5 +1,5 @@
 # Ex03 TODO LIST
-## Date:
+## Date: 12/08/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
